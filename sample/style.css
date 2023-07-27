@@ -1,0 +1,35 @@
+.box {
+	/* Rectangle 7 */
+
+	box-sizing: border-box;
+
+	position: absolute;
+	width: 190px;
+	height: 117px;
+	left: 246px;
+	top: 294px;
+
+	/* red linear */
+	background: linear-gradient(109.71deg, #7b0b0b 4.74%, #f33e3e 98.35%);
+	border: 1px solid #db7e2c;
+	border-radius: 18px;
+}
+
+.rel {
+	position: relative;
+	width: 190px;
+	height: 117px;
+	left: 246px;
+	top: 294px;
+}
+
+.img {
+	/* Rectangle */
+
+	/* background: url(.jpg); */
+	/* Rectangle */
+
+	/* background: url(.jpg); */
+	filter: blur(25px);
+	border-radius: 48px;
+}
